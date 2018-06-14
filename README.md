@@ -1,0 +1,2 @@
+# valilnmp_setup_file
+valilnmp需要用到的搭建文件
